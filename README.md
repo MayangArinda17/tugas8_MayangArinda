@@ -37,9 +37,6 @@ saran untuk pengembangan jurnal tentang sistem perekam detak jantung berbasis In
 
 7. **Kolaborasi dengan Industri dan Pihak Terkait**: Jalin kerjasama dengan perusahaan teknologi dan lembaga kesehatan untuk memperluas cakupan dan adopsi sistem. Kolaborasi ini dapat membantu dalam pengembangan lebih lanjut, validasi, dan penerapan praktis dari solusi yang diusulkan.
 
-Dengan menerapkan saran-saran ini, jurnal tentang sistem perekam detak jantung berbasis IoT dapat memberikan wawasan yang berharga dan berkontribusi pada pengembangan teknologi kesehatan yang inovatif dan efektif.
-
-
 
 
 
@@ -98,7 +95,7 @@ Pendekatan ini memanfaatkan kemampuan jaringan saraf dalam mempelajari represent
 
 7. **Implementasi Real-Time**: Jika memungkinkan, pertimbangkan untuk mengembangkan sistem yang dapat melakukan deteksi serangan brute force secara real-time dalam lingkungan produksi. Ini akan meningkatkan nilai praktis dari penelitian dan mengarah pada penggunaan praktis dalam sistem deteksi intrusi.
 
-Dengan menerapkan saran-saran ini, jurnal tersebut dapat memberikan kontribusi yang lebih berharga dalam pengembangan metode deteksi serangan brute force yang efektif dan efisien menggunakan jaringan saraf dan dataset CICIDS2018.
+
 
 
 
@@ -161,9 +158,6 @@ Dengan memanfaatkan IoT dalam pengelolaan akuarium, diharapkan dapat meningkatka
 6. **Penyempurnaan Berkelanjutan**: Gunakan umpan balik dari uji coba lapangan dan pengguna untuk terus memperbaiki dan menyempurnakan prototipe. Identifikasi area di mana sistem dapat ditingkatkan, baik dari segi kinerja teknis maupun pengalaman pengguna.
 
 7. **Analisis Dampak Lingkungan**: Selidiki dampak penggunaan sistem terhadap lingkungan akuarium dan kesejahteraan ikan. Pastikan bahwa penggunaan sistem ini tidak membahayakan atau mengganggu kehidupan ikan hias dalam akuarium.
-
-Dengan memperhatikan saran-saran ini, jurnal tentang prototipe sistem kontrol otomatis untuk suhu air dan keasaman dalam akuarium ikan hias berbasis IoT dapat memberikan wawasan yang berharga dan memberikan kontribusi pada pengembangan teknologi yang berguna dalam pemeliharaan ikan hias.
-
 
 
 
